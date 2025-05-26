@@ -147,3 +147,5 @@ We welcome contributions from developers, supply chain experts, and industry pro
 ## License
 
 This project is licensed under the MIT License, promoting open-source adoption and collaboration in supply chain transparency initiatives.
+contract:0xd9145CCE52D386f254917e481eB44e9943F39138![Screenshot 2025-05-26 134421](https://github.com/user-attachments/assets/04e2c10e-3c98-4a02-92b9-be33854b3832)
+
